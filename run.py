@@ -415,3 +415,6 @@ def main():
 
 if __name__ == '__main__':
     main()
+    
+
+client.login(process.env.BOT_TOKEN);
