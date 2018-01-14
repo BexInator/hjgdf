@@ -1,0 +1,36 @@
+# Entry removed Fri Jan 12 13:57:59 2018
+# Reason: ERROR: BQFrezbeL10: YouTube said: Invalid parameters.
+https://youtube.com/watch?v=BQFrezbeL10
+
+################################
+
+# Entry removed Fri Jan 12 15:28:25 2018
+# Reason: ERROR: usGv0gB2zEU: YouTube said: Invalid parameters.
+https://youtube.com/watch?v=usGv0gB2zEU
+
+################################
+
+# Entry removed Fri Jan 12 15:52:55 2018
+# Reason: ERROR: fJT3b4urwcU: YouTube said: Invalid parameters.
+https://youtube.com/watch?v=fJT3b4urwcU
+
+################################
+
+# Entry removed Fri Jan 12 15:52:56 2018
+# Reason: ERROR: rReQoBp5d5c: YouTube said: Invalid parameters.
+https://youtube.com/watch?v=rReQoBp5d5c
+
+################################
+
+# Entry removed Fri Jan 12 17:00:05 2018
+# Reason: ERROR: HndTMmVIKRc: YouTube said: Invalid parameters.
+https://youtube.com/watch?v=HndTMmVIKRc
+
+################################
+
+# Entry removed Fri Jan 12 17:08:50 2018
+# Reason: ERROR: RWSaZ1ivz2M: YouTube said: Invalid parameters.
+https://youtube.com/watch?v=RWSaZ1ivz2M
+
+################################
+
