@@ -2,9 +2,9 @@
   "name": "GaM bot 1",
   "description": "GaM bot 1",
   "version": "0.0.0",
-  "main": "bot.py",
+  "main": "run.py",
   "scripts": {
-    "start": "node bot.py"
+    "start": "node run.py"
   },
   "dependencies": {
     "discord.js": "11.1.0",
